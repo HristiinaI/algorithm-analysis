@@ -1,0 +1,13 @@
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/bin/Debug/netcoreapp3.1/Upr7.deps.json
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/bin/Debug/netcoreapp3.1/Upr7.runtimeconfig.json
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/bin/Debug/netcoreapp3.1/Upr7.runtimeconfig.dev.json
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/bin/Debug/netcoreapp3.1/Upr7.dll
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/bin/Debug/netcoreapp3.1/Upr7.pdb
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.csproj.AssemblyReference.cache
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.AssemblyInfoInputs.cache
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.AssemblyInfo.cs
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.csproj.CoreCompileInputs.cache
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.dll
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.pdb
+/Users/hrischeto/Desktop/Things/Upr7/Upr7/obj/Debug/netcoreapp3.1/Upr7.genruntimeconfig.cache
